@@ -1,7 +1,7 @@
 """
 File: khansole_academy.py
 -------------------------
-This program asks the user to add to randomly generated numbers. Once the user gets three questions correct in a row,
+This program asks the user to add two randomly generated numbers. Once the user gets three questions correct in a row,
 the program congratulates them and then closes. Program lets user quit anytime by entering 0 and checks that
 the user enters integers only using a try except block.
 """

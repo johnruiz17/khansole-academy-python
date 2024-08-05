@@ -36,7 +36,7 @@ def main():
         else:                                                                 # else, multiplies num by 3 and adds 1
             old_num = num
             num = (3 * num) + 1
-            print(str(int(old_num)), "is odd, so I make 3n + 1:", str(int(num)))
+            print(str(int(old_num)), "is odd, so I take 3n + 1:", str(int(num)))
             steps += 1
     print("The process took", str(steps), "steps to reach 1.")
 
